@@ -83,3 +83,6 @@ Return to the main menu after completing an operation unless the user selects Ex
 
 **Step 7: Stop**
 
+
+## Flowchart
+[View Flowchart](https://mermaid.ai/d/b5a2a1fe-4093-45ff-9453-33ccf25c8111)
