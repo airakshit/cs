@@ -12,11 +12,6 @@ The complete C programming source code for the Computer Vacation Homework is ava
 ## Project Title
 **Student Management System Using C**
 
-## Description
-This project is a menu-driven Student Management System developed using the C programming language. It allows users to add, display, search, update student records, calculate student results, and find the student with the highest percentage.
-
-The system stores records for up to 100 students and maintains marks for five subjects.
-
 ## Algorithm
 
 **Step 1: Start**
