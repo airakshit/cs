@@ -97,3 +97,10 @@ Return to the main menu after completing an operation unless the user selects Ex
 <img width="1920" height="1080" alt="Screenshot (819)" src="https://github.com/user-attachments/assets/0b9b5fe1-a9ba-406c-a404-6a5d75881f6a" />
 
 
+
+## Project Report
+This project achieves the management of student records in memory using C-program. 
+Handles adding, displaying, searching, calculating result, updating and ranking of students according to marks.
+Handles validation for marks, roll number and entered choices.
+Runs a loop in case of incorrect record so that correct data is always inserted.
+The program is modular and functional with various functions being used across various parts of the application. 
