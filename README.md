@@ -86,3 +86,14 @@ Return to the main menu after completing an operation unless the user selects Ex
 
 ## Flowchart
 ([https://mermaid.ai/d/b5a2a1fe-4093-45ff-9453-33ccf25c8111](https://mermaid.ai/d/1463ba49-4165-49c6-b578-138607afa24c))
+
+
+## Screenshots
+<img width="1920" height="1080" alt="Screenshot (814)" src="https://github.com/user-attachments/assets/9e01c8b9-2545-4067-9b64-580961796d54" />
+<img width="1920" height="1080" alt="Screenshot (815)" src="https://github.com/user-attachments/assets/81b78142-8357-474e-8b7f-ed44fb2c3d09" />
+<img width="1920" height="1080" alt="Screenshot (816)" src="https://github.com/user-attachments/assets/9209157f-c674-4b87-9276-f62930a4e7a3" />
+<img width="1920" height="1080" alt="Screenshot (817)" src="https://github.com/user-attachments/assets/51d6c101-c958-498f-99dc-11021024f727" />
+<img width="1920" height="1080" alt="Screenshot (818)" src="https://github.com/user-attachments/assets/60ebfbb1-4c73-4934-afcc-364e6ba4e967" />
+<img width="1920" height="1080" alt="Screenshot (819)" src="https://github.com/user-attachments/assets/0b9b5fe1-a9ba-406c-a404-6a5d75881f6a" />
+
+
